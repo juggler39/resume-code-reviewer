@@ -3,31 +3,16 @@
 - company: AIS Novations
   position: Full stack developer trainee
   duration: June, 2020 &mdash; Present
-  summary: At the present time I am developing my skills to be a full stack developer. The stack of technologies includes	
-  <ul class="resume-item-list">
-    <li>HTML/CSS</li>
-    <li>Java Sript</li>
-    <li>Databases: Mysql, MongoDB</li>
-    <li>NodeJS: Express framework, Sequelize ORM</li>
-    <li>Frontend Frameworks: ReactJS, Angular, VueJS</li>
-  </ul>
+  summary: At the present time I am developing my skills to be a full stack developer. The stack of technologies includes: <ul class="resume-item-list"><li>HTML/CSS</li><li>Java Sript</li><li>Databases: Mysql, MongoDB</li><li>NodeJS: Express framework, Sequelize ORM</li><li>Frontend Frameworks: ReactJS, Angular, VueJS</li></ul>
 
 # Director of Digital Stratgy
 - company: Grammer GmbH
   position: Logistics manager
   duration:  Mai, 2010 &mdash; June, 2020
-  summary: Among other functions my position included following responsibility:
-    <ul class="resume-item-list">
-    <li>Communicating with customers in English and in German</li>
-    <li>Develop and maintain user interfaces for the company's CRM using HTML, CSS and JS</li>
-  </ul>
+  summary: Among other functions my position included following responsibility:<ul class="resume-item-list"><li>Communicating with customers in English and in German</li><li>Develop and maintain user interfaces for the company's CRM using HTML, CSS and JS</li></ul>
 
 # Communications Coordinator
 - company: AIW GmbH
   position: Logistics manager
   duration:   Jun, 2003  &mdash; May, 2010
-  summary: Among other functions my position included following responsibility:
-    <ul class="resume-item-list">
-    <li>Communicating with customers in English and in German</li>
-    <li>Developing and maintaining the company's web site using HTML and CSS</li>
-  </ul>
+  summary: Among other functions my position included following responsibility:<ul class="resume-item-list"><li>Communicating with customers in English and in German</li><li>Developing and maintaining the company's web site using HTML and CSS</li></ul>
