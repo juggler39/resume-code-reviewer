@@ -11,6 +11,13 @@
 # Springfield Community Outreach Group
 - project: Calculator
   role: Odin project
-  duration: HTML/CSS, JS
+  duration: HTML/CSS, JavaScript
   url: "https://github.com/juggler39/calculator"
-  description: Personal project made with HTML, CSS and JS
+  description: Personal project made with HTML, CSS and JavaScript
+  
+  # Springfield Community Outreach Group
+- project: JavaScript 
+  role: JavaScript assignments
+  duration: JavaScript
+  url: "https://github.com/juggler39/js-assignments/tree/master/task"
+  description: JavaScript assignment
