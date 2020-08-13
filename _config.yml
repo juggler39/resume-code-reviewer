@@ -23,7 +23,13 @@ resume_contact_address:         "108 Krasnoselskaya Street, Kaliningrad"
 resume_header_contact_info:     "108 Krasnoselskaya Street, Kaliningrad • 8-911-866-0001 • juggler39@yandex.ru"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I am excited to submit my application for the position of Code reviewer HTML/CSS with Yandex.
+Your company is really exiting and I appreciate the devotion to serving your customer’s needs.
+I believe my skills and my background make me an excellent fit for this position.
+I have a great experience with HTML and CSS, which I used for many different projects.
+The level of my English knowledge is deep enough to speak fluently without any especial troubles and write texts without mistakes.
+I would like to contact with you and discuss the position in detail.
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
