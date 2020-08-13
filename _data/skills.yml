@@ -1,12 +1,11 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Responsive Web Design
+  description: HTML, CSS, accessibility, responsive web design principles, grid, flexbox
+  url: https://www.freecodecamp.org/certification/juggler39/responsive-web-design
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: English B2
+  description: Upper-Intermediate
+  url: https://github.com/juggler39/resume-code-reviewer/blob/gh-pages/images/EF%20certificate_Ilya%20Majlychko_Level%2012.pdf
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
